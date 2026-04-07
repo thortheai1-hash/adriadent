@@ -1,0 +1,119 @@
+{
+  "Navigation": {
+    "home": "Kreu",
+    "services": "Shërbimet",
+    "gallery": "Galeria",
+    "reviews": "Vlerësime",
+    "contact": "Kontakt",
+    "bookNow": "Rezervo Tani"
+  },
+  "Hero": {
+    "title1": "Stomatologji Precize,",
+    "title2": "Përkujdesje e Jashtëzakonshme.",
+    "subtitle": "Përjetoni kujdes dentar të standardeve të larta me Dr. Adriatik Suma në zemër të Shkodrës.",
+    "cta": "Rezervo një Takim",
+    "secondaryCta": "Shërbimet Tona"
+  },
+  "Services": {
+    "title": "Shërbimet Tona",
+    "subtitle": "Zgjidhje gjithëpërfshirëse dentare të përshtatura për buzëqeshjen tuaj unike.",
+    "items": {
+      "implants": {
+        "title": "Implante Dentare",
+        "description": "Zgjidhje të përhershme dhe me pamje natyrale për të rikthyer buzëqeshjen dhe vetëbesimin."
+      },
+      "cosmetic": {
+        "title": "Stomatologji Kozmetike",
+        "description": "Faseta, zbardhim dhe transformime të plota të buzëqeshjes."
+      },
+      "orthodontics": {
+        "title": "Ortodonci",
+        "description": "Opsione moderne të drejtimit të dhëmbëve duke përfshirë aligners të padukshëm dhe tela tradicionalë."
+      },
+      "pediatric": {
+        "title": "Stomatologji Pediatrike",
+        "description": "Përkujdesje e butë dhe me dhembshuri për shëndetin dentar të fëmijëve tuaj."
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Transformimet",
+    "subtitle": "Shikoni rezultatet para dhe pas të përkujdesjes sonë të përkushtuar dentare."
+  },
+  "Reviews": {
+    "title": "Historitë e Pacientëve",
+    "subtitle": "Mos na besoni vetëm ne. Ja çfarë kanë për të thënë pacientët tanë."
+  },
+  "Contact": {
+    "title": "Na Kontaktoni",
+    "subtitle": "Ne jemi këtu t'ju përgjigjemi pyetjeve tuaja dhe t'ju ndihmojmë të planifikoni vizitën e radhës.",
+    "address": "Bulevardi Zogu I 61, Shkodër 4001, Albania",
+    "form": {
+      "name": "Titulli i Emrit",
+      "service": "Shërbimi i Dëshiruar",
+      "date": "Data e Preferuar",
+      "message": "Detaje të tjera (opsionale)",
+      "submit": "Dërgo përmes WhatsApp",
+      "selectService": "Zgjidhni një Shërbim"
+    }
+  },
+  "WhyUs": {
+    "title": "Pse të Zgjidhni Ne",
+    "subtitle": "Standardi i ekselencës në stomatologjinë moderne.",
+    "items": {
+      "painless": {
+        "title": "Trajtime pa Dhimbje",
+        "description": "Ne përdorim teknikat më të fundit të anestezisë dhe një qasje të butë për të garantuar komoditetin tuaj absolut gjatë çdo vizite."
+      },
+      "hygiene": {
+        "title": "Higjienë Strikte",
+        "description": "Klinika jonë u përmbahet protokolleve më të larta globale të sterilizimit, duke garantuar një mjedis të sigurt dhe të pastër."
+      },
+      "expertise": {
+        "title": "Ekspertizë e Pakrahasueshme",
+        "description": "Drejtuar nga profesionistë të trajnuar bazuar në praktika shkencore për rezultate afatgjata dhe të përsosura."
+      }
+    }
+  },
+  "Equipment": {
+    "title": "Teknologji e Fjalës së Fundit",
+    "subtitle": "Ne bashkëpunojmë me markat lider në industri për të ofruar kujdes dentar preciz."
+  },
+  "Doctor": {
+    "title": "Njihuni me Doktorin",
+    "role": "Kirurg Oral & Implantolog",
+    "name": "Dr. Adriatik Suma",
+    "bio": "Me vite të tëra përvoje të gjerë në stomatologjinë gjithëpërfshirëse dhe implantologji, Dr. Adriatik Suma është i përkushtuar për të ofruar restaurime dentare të standardeve më të larta dhe transformime kozmetike. Qasja e tij e butë dhe përkushtimi ndaj trajnimeve të vazhdueshme sigurojnë që pacientët të marrin trajtimet më të avancuara dhe pa dhimbje të disponueshme sot.",
+    "credentials": [
+      "Specialist në Implantologji",
+      "Ekspert në Estetikë",
+      "Kirurgji Orale e Avancuar"
+    ]
+  },
+  "FAQ": {
+    "title": "Pyetjet më të Shpeshta",
+    "subtitle": "Përgjigje të qarta për të hequr çdo dyshim.",
+    "questions": [
+      {
+        "q": "A dhembin implantet dentare?",
+        "a": "Aspak. Procedura kryhet nën anestezi lokale, që do të thotë se nuk do të ndjeni dhimbje. Shqetësimi pas operacionit është minimal dhe i menaxhueshëm me qetësues standardë."
+      },
+      {
+        "q": "Sa zgjasin fasetat e porcelanit?",
+        "a": "Me kujdesin e duhur, higjienë të mirë orale dhe kontrolle të rregullta, fasetat e porcelanit cilësore mund të zgjasin nga 10 deri në 15 vjet ose më shumë."
+      },
+      {
+        "q": "A trajtoni fëmijë?",
+        "a": "Po! Ne ofrojmë shërbime të specializuara për fëmijë duke siguruar një mjedis pa frikë."
+      },
+      {
+        "q": "Çfarë të pres në vizitën time të parë?",
+        "a": "Vizita përfshin një ekzaminim gjithëpërfshirës, radiografi digjitale nëse është e nevojshme, dhe një diskutim të thellë për planin e personalizuar të trajtimit."
+      }
+    ]
+  },
+  "Footer": {
+    "allRightsReserved": "Të gjitha të drejtat e rezervuara.",
+    "developedBy": "Dizenjuar me kujdes"
+  }
+}

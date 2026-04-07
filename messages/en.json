@@ -1,0 +1,119 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "Hero": {
+    "title1": "Precision Dentistry,",
+    "title2": "Exceptional Care.",
+    "subtitle": "Experience high-end dental care with Dr. Adriatik Suma in the heart of Shkodër.",
+    "cta": "Book an Appointment",
+    "secondaryCta": "Our Services"
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive dental solutions tailored to your unique smile.",
+    "items": {
+      "implants": {
+        "title": "Dental Implants",
+        "description": "Permanent and natural-looking solutions to restore your smile and confidence."
+      },
+      "cosmetic": {
+        "title": "Cosmetic Dentistry",
+        "description": "Veneers, whitening, and complete smile makeovers."
+      },
+      "orthodontics": {
+        "title": "Orthodontics",
+        "description": "State-of-the-art alignment options including clear aligners and traditional braces."
+      },
+      "pediatric": {
+        "title": "Pediatric Dentistry",
+        "description": "Gentle and compassionate care for your children's dental health."
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Transformations",
+    "subtitle": "See the before and after results of our dedicated dental care."
+  },
+  "Reviews": {
+    "title": "Patient Stories",
+    "subtitle": "Don't just take our word for it. Here's what our patients have to say."
+  },
+  "Contact": {
+    "title": "Get in Touch",
+    "subtitle": "We are here to answer your questions and help you schedule your next visit.",
+    "address": "Bulevardi Zogu I 61, Shkodër 4001, Albania",
+    "form": {
+      "name": "Your Name",
+      "service": "Desired Service",
+      "date": "Preferred Date",
+      "message": "Additional details (optional)",
+      "submit": "Send via WhatsApp",
+      "selectService": "Select a Service"
+    }
+  },
+  "WhyUs": {
+    "title": "Why Choose Us",
+    "subtitle": "The standard of excellence in modern dentistry.",
+    "items": {
+      "painless": {
+        "title": "Painless Treatments",
+        "description": "We utilize the latest anesthesia techniques and a gentle approach to ensure your absolute comfort during every visit."
+      },
+      "hygiene": {
+        "title": "Strict Hygiene",
+        "description": "Our clinic adheres to the highest global sterilization protocols, guaranteeing a safe and spotless environment."
+      },
+      "expertise": {
+        "title": "Unmatched Expertise",
+        "description": "Led by highly trained professionals utilizing evidence-based practices for long-lasting, perfect results."
+      }
+    }
+  },
+  "Equipment": {
+    "title": "State-of-the-Art Technology",
+    "subtitle": "We partner with industry-leading brands to provide precise, durable, and aesthetic dental care."
+  },
+  "Doctor": {
+    "title": "Meet Your Doctor",
+    "role": "Lead Dentist & Oral Surgeon",
+    "name": "Dr. Adriatik Suma",
+    "bio": "With years of extensive experience in comprehensive dentistry and implantology, Dr. Adriatik Suma is dedicated to providing high-end dental restorations and cosmetic transformations. His gentle approach and commitment to continuous learning ensure that patients receive the most advanced and painless treatments available today. Dr. Suma believes that every patient deserves a natural, confident smile designed to last a lifetime.",
+    "credentials": [
+      "Specialist in Implantology",
+      "Expert in Cosmetic Makeovers",
+      "Advanced Oral Surgery"
+    ]
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Clear answers to ease your mind.",
+    "questions": [
+      {
+        "q": "Do dental implants hurt?",
+        "a": "Not at all. The procedure is performed under local anesthesia, meaning you won't feel pain. Post-operative discomfort is usually minimal and manageable with standard painkillers."
+      },
+      {
+        "q": "How long do porcelain veneers last?",
+        "a": "With proper care, good oral hygiene, and regular dental checkups, high-quality porcelain veneers can last anywhere from 10 to 15 years or more."
+      },
+      {
+        "q": "Do you treat children?",
+        "a": "Yes! We specialize in pediatric dentistry, ensuring a welcoming, fear-free environment for children to build healthy dental habits early on."
+      },
+      {
+        "q": "What should I expect during my first visit?",
+        "a": "Your first visit includes a comprehensive examination, digital X-rays if necessary, and an in-depth consultation where we discuss your goals and craft a personalized treatment plan."
+      }
+    ]
+  },
+  "Footer": {
+    "allRightsReserved": "All rights reserved.",
+    "developedBy": "Designed with care"
+  }
+}
